@@ -3,6 +3,17 @@
 Task App é uma aplicação web que permite gerenciar tarefas utilizando um layout em formato Kanban. A aplicação permite que os usuários criem, atualizem e deletem tarefas de maneira intuitiva.
 ### [🔗 Acesse a aplicação em produção](https://task-manager-inky-three.vercel.app/)
 
+## 📷 Capturas de Tela
+
+<details open>
+  <summary>Visualizar Imagens da Aplicação</summary>
+  
+  <img src="images/tela-inicial.png" alt="Tela Inicial" width=800px/>
+  <img src="images/tela-login.png" alt="Tela de Login" width=800px/>
+  <img src="images/tela-tasks.png" alt="Tela de Tarefas" width=800px/>
+  
+</details>
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **React**: Biblioteca JavaScript para construção de interfaces de usuário.
