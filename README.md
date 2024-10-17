@@ -1,4 +1,9 @@
 # 📝 Task App
+<p align='center'>
+  <a href='https://github.com/brenno-araujo25/task-app-api'>
+  <img src='https://img.shields.io/badge/API-Repository-blue?style=for-the-badge' />
+  </a>
+</p>
 
 Task App é uma aplicação web que permite gerenciar tarefas utilizando um layout em formato Kanban. A aplicação permite que os usuários criem, atualizem e deletem tarefas de maneira intuitiva.
 ### [🔗 Acesse a aplicação em produção](https://task-manager-inky-three.vercel.app/)
